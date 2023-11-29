@@ -6,4 +6,4 @@
 
 
 
-![](https://raw.githubusercontent.com/zhangyiceee/zhangyiceee/main/./assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/zhangyiceee/zhangyiceee/main/assets/github-contribution-grid-snake.svg)
