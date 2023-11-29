@@ -5,9 +5,6 @@
 
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<!-- [![Zhang Yi ](https://github-readme-activity-graph.cyclic.app/graph?username=zhangyiceee&theme=github-compact)](https://github.com/zhangyiceee/github-readme-activity-graph) -->
-![Zhang Yi 's github activity graph](https://raw.githubusercontent.com/zhangyiceee/zhangyiceee/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+
+
+![暗色](https://raw.githubusercontent.com/zhangyiceee/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
