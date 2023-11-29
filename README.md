@@ -1,2 +1,2 @@
 ### Hi there 👋
-![ZhangYi's GitHub stats](https://github-readme-stats.vercel.app/api?zhangyiceee=anuraghazra&count_private=trueshow_icons)
+![ZhangYi's GitHub stats](https://github-readme-stats.vercel.app/api?zhangyiceee=anuraghazra&show_icons=true&theme=radical&count_private=true)
