@@ -17,7 +17,8 @@ jobs:
    {
     secrets.GITHUB_TOKEN }}
           USERNAME: ${
-   {zhangyiceee}}
+   {
+    github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
