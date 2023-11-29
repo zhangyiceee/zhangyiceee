@@ -7,4 +7,4 @@
 
 
 
-![暗色](https://raw.githubusercontent.com/zhangyiceee/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![暗色](https://github.com/zhangyiceee/zhangyiceee/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
