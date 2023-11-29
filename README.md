@@ -5,5 +5,4 @@
 
 
 
-![](https://ghproxy.com/https://raw.githubusercontent.com/zhangyiceee/zhangyiceee/assets/github-contribution-grid-snake.svg)
-
+![](https://ghproxy.com/https://raw.githubusercontent.com/zhangyiceee/zhangyiceee/blob/main/assets/github-contribution-grid-snake.svg)
